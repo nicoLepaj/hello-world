@@ -1,2 +1,3 @@
 # hello-world
-First GitHub repository, learning how-to
+First GitHub repository
+Seeing how changes in different versions work
